@@ -1,1 +1,4 @@
-hola soy un texto nuevo em git
+hola soy un texto nuevo em git ahora hago una modificación
+
+aaron tiene 24 años y 
+vive en Bolivia
