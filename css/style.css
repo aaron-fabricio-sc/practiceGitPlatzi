@@ -5,7 +5,13 @@ body{
 
 
 }
+.caja_m{
+    background: teal;
 
+}
+.caja_m h2{
+    color: black;
+}
 .contenedorPadre{
     
     background: black;
