@@ -47,3 +47,11 @@ footer p
     color: white;
     font-size:18px;
 }
+
+.contenedor cite{
+    background: rgb(8, 166, 172);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+  
+    
+}
