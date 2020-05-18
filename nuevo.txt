@@ -4,3 +4,6 @@ aaron tiene 24 años y
 vive en Bolivia
 
 se prepara para ser un desarrollador.
+
+le gusta el leguaje de javaScript
+
