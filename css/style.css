@@ -1,11 +1,9 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background: gray;
 }
 
 .contenedorPadre{
-    
     background: black;
     width: 70%;
     margin: auto;
@@ -13,13 +11,11 @@ body{
 
 h2{
     color: white;
-    padding: 15px;
+    padding: 5px;
     font-weight: bold;
-    font-size: 38px ;
-    background: rgba(255, 255, 255, 0.247);
 }
 .contenedor{
-    font-size: 18px;
+
     color: white;
 }
 
@@ -27,7 +23,7 @@ footer
 {
     margin: auto;
     width: 70%;
-    background: rgba(0, 0, 0, 0.253);
+    background: rgba(10, 7, 7, 0.219);
 
 }
 footer p
