@@ -22,3 +22,16 @@ h2{
     font-size: 18px;
     color: white;
 }
+
+footer
+{
+    margin: auto;
+    width: 70%;
+    background: gray;
+
+}
+footer p
+{
+    color: white;
+    font-size:18px;
+}
