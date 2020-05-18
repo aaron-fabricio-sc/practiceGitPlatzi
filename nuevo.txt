@@ -7,3 +7,4 @@ se prepara para ser un desarrollador.
 
 le gusta el leguaje de javaScript
 
+curos
