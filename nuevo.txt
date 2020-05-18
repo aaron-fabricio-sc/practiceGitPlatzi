@@ -2,3 +2,5 @@ hola soy un texto nuevo em git ahora hago una modificación
 
 aaron tiene 24 años y 
 vive en Bolivia
+
+se prepara para ser un desarrollador.
